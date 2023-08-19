@@ -42,3 +42,11 @@ GraphQL is a query language and runtime that allows you to request exactly the d
       }
     }
   }
+  ```
+
+
+## Next Steps
+
+You've learned how to use GitHub's GraphQL API. In the next tutorial, we'll explore GitHub's REST API.
+
+[Next: Exploring GitHub's REST API](https://chat.openai.com/c/16-rest-api.md)
